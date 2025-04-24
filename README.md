@@ -47,7 +47,7 @@
 ### 📫 Let's Connect
 
 - 🔗 [Portfolio](https://saidulalimallick.onrender.com/) *Portfolio Webpage*
-- 🐦 [Twitter](https://twitter.com/) *Saidulmallick04*
+- 🐦 [Twitter](https://x.com/saidulmallick04) *Saidulmallick04*
 - 📸 [Instagram](https://www.instagram.com/soidsphotography04/) *Soid's Photography*
 - 💼 [LinkedIn](https://linkedin.com/in/saidulalimallick04) *Saidul Ali Mallick*
 
