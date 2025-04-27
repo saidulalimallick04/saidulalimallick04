@@ -10,7 +10,7 @@
 
 - 🎓 Pursuing B.Tech in Computer Science (AI & ML)
 - 🧠 Focused on **Backend Development** with Python, Django & PostgreSQL
-- 💻 Learning **DSA with Java** (1 problem/day)
+- 💻 Learning **DSA with Java/C** (1 problem/day)
 - 📸 Passionate about photography & nature videography
 - 🌿 Inspired by nature, storytelling & anime (Naruto believer 🌀)
 - 🎥 Planning to launch my YouTube channel soon
@@ -19,10 +19,10 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages**: Python, Java, C++, SQL
+- 💻 **Languages**: Python, Java, C, SQL
 - 🌐 **Web**: Django, HTML, CSS, JavaScript (basic)
 - 🗃️ **Databases**: PostgreSQL, MySQL, SQLite
-- ⚙️ **Tools**: Git, GitHub, VS Code, Linux (soon)
+- ⚙️ **Tools**:CDN, Git, GitHub, VS Code
 
 ---
 
@@ -47,9 +47,17 @@
 ### 📫 Let's Connect
 
 - 🔗 [Portfolio](https://saidulalimallick.onrender.com/) *Portfolio Webpage*
-- 🐦 [Twitter](https://x.com/saidulmallick04) *Saidulmallick04*
-- 📸 [Instagram](https://www.instagram.com/soidsphotography04/) *Soid's Photography*
+- 🐦 [Twitter](https://x.com/saidulmallick04) *Saidul Ali Mallick*
+- 📸 [Instagram](https://www.instagram.com/saidulalimallick04/) *Saidul Ali Mallick*
 - 💼 [LinkedIn](https://linkedin.com/in/saidulalimallick04) *Saidul Ali Mallick*
+
+---
+
+### 📫 Hobbies
+
+- 🔗 [Website](https://saidulalimallick.onrender.com/) *Portfolio Webpage*
+- 📸 [Instagram](https://www.instagram.com/soidsphotography04/) *Soid's Photography*
+- 💼 [Youtube](https://www.youtube.com/@samivideography04) *Samis Videography*
 
 ---
 
@@ -67,4 +75,3 @@
 
 ![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidulalimallick04&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidulalimallick04&layout=compact&theme=radical)
-
