@@ -28,27 +28,34 @@
 
 ### 📌 Projects
 
-- ✅ **To-Do List App (Django + SQLite3)**  
+- ✅🧩 **Apex-Sky Projects Management (Django + Python + HTML + CSS + JavaScript + PostgreSQL)**  
+  Organize projects, add deadlines, and get stuff done! Showcase to everyone all projects that you work in.
+
+- ✅😺 **AI-based Animal Classifier (Python{Streamlit, Tensworflow})**
+  Classify images based on some characteristics, It can easily Predict Cats, Dogs.
+
+- ✅🚩 **To-Do List App (Django + SQLite3)**  
   Organize tasks, add deadlines, and get stuff done!
 
-- 🔍 **Image Search Engine**  
+- ✅🔍 **Image Search Engine( Django + Unsplash API)**  
   Built with Django + Unsplash API
 
 ---
 
 ### 🌱 Currently Learning
 
-- Java DSA daily challenge 💪
-- PostgreSQL advanced queries
-- System design & scalable backend concepts
+- Django daily challenge 💪
+- PostgreSQL advanced queries ⏩
+- Artifical Intelligence 🤖
+- Content Delivery Network ⛓️‍💥
 
 ---
 
 ### 📫 Let's Connect
 
-- 🔗 [Portfolio](https://saidulalimallick.onrender.com/) *Portfolio Webpage*
+- 🔗 [Portfolio](https://saidulalimallick.onrender.com) *Portfolio Webpage*
 - 🐦 [Twitter](https://x.com/saidulmallick04) *Saidul Ali Mallick*
-- 📸 [Instagram](https://www.instagram.com/saidulalimallick04/) *Saidul Ali Mallick*
+- 📸 [Instagram](https://www.instagram.com/saidulalimallick04) *Saidul Ali Mallick*
 - 💼 [LinkedIn](https://linkedin.com/in/saidulalimallick04) *Saidul Ali Mallick*
 
 ---
@@ -63,9 +70,9 @@
 
 ### ✨ Fun Facts
 
-- I dream of coding with a view of mountains or the sea 🏔️🌊
-- I live by this quote: "I will protect you."
-- My ideal life? Calm code, clean air, soulful stories 🧘‍♂️
+- I dream of coding with a view of mountains or the sea 🏔️🌊.
+- I live by this quote: "I will protect you" 😊🫡.
+- My ideal life? Calm code, clean air, soulful stories 🧘‍♂️🍃.
 
 ---
 
