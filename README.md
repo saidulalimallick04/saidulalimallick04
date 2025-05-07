@@ -22,7 +22,7 @@
 - 💻 **Languages**: Python, Java, C, SQL
 - 🌐 **Web**: Django, HTML, CSS, JavaScript (basic)
 - 🗃️ **Databases**: PostgreSQL, MySQL, SQLite
-- ⚙️ **Tools**:CDN, Git, GitHub, VS Code
+- ⚙️ **Tools**: CDN, Git, GitHub, VS Code
 
 ---
 
@@ -64,7 +64,7 @@
 
 - 🔗 [Website](https://saidulalimallick.onrender.com/) *Portfolio Webpage*
 - 📸 [Instagram](https://www.instagram.com/soidsphotography04/) *Soid's Photography*
-- 💼 [Youtube](https://www.youtube.com/@samivideography04) *Samis Videography*
+- 💼 [Youtube](https://www.youtube.com/@samivideography04) *Sami's Videography*
 
 ---
 
