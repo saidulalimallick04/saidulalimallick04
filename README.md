@@ -53,7 +53,7 @@
 
 ### 📫 Let's Connect
 
-- 🔗 [Portfolio](https://saidulalimallick.onrender.com) *Portfolio Webpage*
+- 🔗 [Portfolio](https://saidulalimallick.pages.dev) *Portfolio Webpage*
 - 🐦 [Twitter](https://x.com/saidulmallick04) *Saidul Ali Mallick*
 - 📸 [Instagram](https://www.instagram.com/saidulalimallick04) *Saidul Ali Mallick*
 - 💼 [LinkedIn](https://linkedin.com/in/saidulalimallick04) *Saidul Ali Mallick*
@@ -62,7 +62,7 @@
 
 ### 📫 Hobbies
 
-- 🔗 [Website](https://saidulalimallick.onrender.com/) *Portfolio Webpage*
+- 🔗 [Website](https://saidulalimallick.pages.dev) *Portfolio Webpage*
 - 📸 [Instagram](https://www.instagram.com/soidsphotography04/) *Soid's Photography*
 - 💼 [Youtube](https://www.youtube.com/@samivideography04) *Sami's Videography*
 
