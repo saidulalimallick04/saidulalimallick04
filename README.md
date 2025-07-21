@@ -1,16 +1,16 @@
-## Hey there, I'm Sami! 👋
+## Hey there, I'm Sami! 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=saidulalimallick04&color=blue)
 
 ### 👨‍💻 Backend Developer in Progress | B.Tech CSE (AI & ML)
 
 🔖 Known as **Backend Sage** — blending code, calm & creativity
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=saidulalimallick04&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 🚀 About Me
 
 - 🎓 Pursuing B.Tech in Computer Science (AI & ML)
 - 🧠 Focused on **Backend Development** with Python, Django & PostgreSQL
-- 💻 Learning **DSA with Java/C** (1 problem/day)
 - 📸 Passionate about photography & nature videography
 - 🌿 Inspired by nature, storytelling & anime (Naruto believer 🌀)
 - 🎥 Planning to launch my YouTube channel soon
@@ -20,9 +20,10 @@
 ### 🛠️ Tech Stack
 
 - 💻 **Languages**: Python, Java, C, SQL
-- 🌐 **Web**: Django, HTML, CSS, JavaScript (basic)
-- 🗃️ **Databases**: PostgreSQL, MySQL, SQLite
-- ⚙️ **Tools**: CDN, Git, GitHub, VS Code
+- 🌐 **Web**: HTML, CSS, JavaScript (basic), Bootstrap
+- 🪟 **Frameworks**: Django, Django Rest Framework
+- 🗃️ **Databases**: PostgreSQL, MySQL, SQLite, Mongo DB
+- ⚙️ **Tools**: CDN, Git, GitHub, VS Code, Postman, Excel, Google Colab.
 
 ---
 
