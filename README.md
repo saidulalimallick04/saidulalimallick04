@@ -1,3 +1,4 @@
+# Saidul Ali Mallick
 ## Hey there, I'm Sami! 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=saidulalimallick04&color=blue)
 
 ### 👨‍💻 Backend Developer in Progress | B.Tech CSE (AI & ML)
@@ -16,7 +17,7 @@
 - 🎥 Planning to launch my YouTube channel soon
 
 ---
-
+---
 ### 🛠️ Tech Stack
 
 - 💻 **Languages**: Python, Java, C, SQL
@@ -26,7 +27,7 @@
 - ⚙️ **Tools**: CDN, Git, GitHub, VS Code, Postman, Excel, Google Colab.
 
 ---
-
+---
 ### 📌 Projects
 
 - ✅🧩 **Apex-Sky Projects Management (Django + Python + HTML + CSS + JavaScript + PostgreSQL)**  
@@ -42,7 +43,7 @@
   Built with Django + Unsplash API
 
 ---
-
+---
 ### 🌱 Currently Learning
 
 - Django daily challenge 💪
@@ -51,22 +52,25 @@
 - Content Delivery Network ⛓️‍💥
 
 ---
+---
 
 ### 📫 Let's Connect
 
 - 🔗 [Portfolio](https://saidulalimallick.pages.dev) *Portfolio Webpage*
 - 🐦 [Twitter](https://x.com/saidulmallick04) *Saidul Ali Mallick*
-- 📸 [Instagram](https://www.instagram.com/saidulalimallick04) *Saidul Ali Mallick*
+- 📸 [Instagram](https://www.instagram.com/saidulalimallick04) *Saidul Ali Mallick*(Currently Deactivated)
 - 💼 [LinkedIn](https://linkedin.com/in/saidulalimallick04) *Saidul Ali Mallick*
 
+---
 ---
 
 ### 📫 Hobbies
 
 - 🔗 [Website](https://saidulalimallick.pages.dev) *Portfolio Webpage*
-- 📸 [Instagram](https://www.instagram.com/soidsphotography04/) *Soid's Photography*
-- 💼 [Youtube](https://www.youtube.com/@samivideography04) *Sami's Videography*
+- 📸 [Instagram](https://www.instagram.com/soidsphotography04/) *Soid's Photography*(Currently Deactivated)
+- 💼 [Youtube](https://www.youtube.com/@samivideography04) *Sami's Videography*(Currently Deactivated)
 
+---
 ---
 
 ### ✨ Fun Facts
@@ -76,9 +80,11 @@
 - My ideal life? Calm code, clean air, soulful stories 🧘‍♂️🍃.
 
 ---
+---
 
 > _"Backend Sage, signing off. Let’s build something meaningful together!"_ 💙
 
+---
 ---
 
 ![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidulalimallick04&show_icons=true&theme=radical)
