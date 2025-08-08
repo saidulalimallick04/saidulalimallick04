@@ -3,18 +3,18 @@
 
 ### 👨‍💻 Backend Developer in Progress | B.Tech CSE (AI & ML)
 
-🔖 Known as **Backend Sage** — blending code, calm & creativity
+🔖 Known as **Backend Sage** — blending code, calm, organized & creativity
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saidulalimallick04&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 🚀 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science (AI & ML)
-- 🧠 Focused on **Backend Development** with Python, Django & PostgreSQL
-- 📸 Passionate about photography & nature videography
-- 🌿 Inspired by nature, storytelling & anime (Naruto believer 🌀)
-- 🎥 Planning to launch my YouTube channel soon
+- 🎓 Pursuing B.Tech in Computer Science specializing in Artificial Intelligence and Machine Learning.
+- 🧠 Focused on **Backend Development** with Python, Django & PostgreSQL.
+- 📸 Passionate about photography & nature videography.
+- 🌿 Inspired by nature, storytelling & anime (Naruto believer 🌀).
+- 🎥 Planning to launch my YouTube channel soon.
 
 ---
 ---
@@ -60,7 +60,7 @@
 - 🐦 [Twitter](https://x.com/saidulmallick04) *Saidul Ali Mallick*
 - 💼 [LinkedIn](https://linkedin.com/in/saidulalimallick04) *Saidul Ali Mallick*
 - 📸 [Instagram](https://www.instagram.com/saidulalimallick04) *Saidul Ali Mallick*_(Currently Deactivated)_
-- 
+  
 ---
 ---
 
@@ -77,12 +77,12 @@
 
 - I dream of coding with a view of mountains or the sea 🏔️🌊.
 - I live by this quote: "I will protect you" 😊🫡.
-- My ideal life? Calm code, clean air, soulful stories 🧘‍♂️🍃.
+- My ideal life? Calm code, clean air, soulful stories & organized desk 🧘‍♂️🍃🙂.
 
 ---
 ---
 
-> _"Backend Sage, signing off. Let’s build something meaningful together something clean and "_ 💙
+> _"Backend Sage, signing off. Let’s build something meaningful together something clean and meaningful!!"_ 💙
 
 ---
 ---
