@@ -58,8 +58,10 @@
 
 - 🔗 [Portfolio](https://saidulalimallick.pages.dev) *Portfolio Webpage*
 - 🐦 [Twitter](https://x.com/saidulmallick04) *Saidul Ali Mallick*
-- 💼 [LinkedIn](https://linkedin.com/in/saidulalimallick04) *Saidul Ali Mallick*
+- 💼 [LinkedIn](https://linkedin.com/in/saidulalimallick04) *Saidul Ali Mallick* _(Available to contact)_
 - 📸 [Instagram](https://www.instagram.com/saidulalimallick04) *Saidul Ali Mallick*_(Currently Deactivated)_
+- 📸 [Facebook](https://www.facebook.com/saidulalimallick04) *Saidul Ali Mallick*_(Currently Deactivated)_
+- 
   
 ---
 ---
@@ -87,5 +89,5 @@
 ---
 ---
 
-![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidulalimallick04&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidulalimallick04&layout=compact&theme=radical)
+![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidulalimallick04&size_weight=0.5&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidulalimallick04&size_weight=0.5&count_weight=0.5&theme=radical)
