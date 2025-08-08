@@ -39,8 +39,8 @@
 - ✅🚩 **To-Do List App (Django + SQLite3)**  
   Organize tasks, add deadlines, and get stuff done!
 
-- ✅🔍 **Image Search Engine( Django + Unsplash API)**  
-  Built with Django + Unsplash API
+- ✅🔍 **Search Bhai( Django + Unsplash API)**  
+  Goal is to build a  simple image search engine using API from different trust vendors like Unsplash 
 
 ---
 ---
@@ -58,17 +58,17 @@
 
 - 🔗 [Portfolio](https://saidulalimallick.pages.dev) *Portfolio Webpage*
 - 🐦 [Twitter](https://x.com/saidulmallick04) *Saidul Ali Mallick*
-- 📸 [Instagram](https://www.instagram.com/saidulalimallick04) *Saidul Ali Mallick*(Currently Deactivated)
 - 💼 [LinkedIn](https://linkedin.com/in/saidulalimallick04) *Saidul Ali Mallick*
-
+- 📸 [Instagram](https://www.instagram.com/saidulalimallick04) *Saidul Ali Mallick*_(Currently Deactivated)_
+- 
 ---
 ---
 
 ### 📫 Hobbies
 
-- 🔗 [Website](https://saidulalimallick.pages.dev) *Portfolio Webpage*
-- 📸 [Instagram](https://www.instagram.com/soidsphotography04/) *Soid's Photography*(Currently Deactivated)
-- 💼 [Youtube](https://www.youtube.com/@samivideography04) *Sami's Videography*(Currently Deactivated)
+- 🔗 [Website](https://saidulalimallick.pages.dev/hobbies) *All Hobbies*
+- 📸 [Instagram](https://www.instagram.com/soidsphotography04/) *Soid's Photography*_(Currently Deactivated)_
+- 💼 [Youtube](https://www.youtube.com/@samivideography04) *Sami's Videography*_(Currently Deactivated)_
 
 ---
 ---
@@ -82,7 +82,7 @@
 ---
 ---
 
-> _"Backend Sage, signing off. Let’s build something meaningful together!"_ 💙
+> _"Backend Sage, signing off. Let’s build something meaningful together something clean and "_ 💙
 
 ---
 ---
