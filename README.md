@@ -59,8 +59,8 @@
 - 🔗 [Portfolio](https://saidulalimallick.pages.dev) *Portfolio Webpage*
 - 🐦 [Twitter](https://x.com/saidulmallick04) *Saidul Ali Mallick*
 - 💼 [LinkedIn](https://linkedin.com/in/saidulalimallick04) *Saidul Ali Mallick* _(Available to contact)_
-- 📸 [Instagram](https://www.instagram.com/saidulalimallick04) *Saidul Ali Mallick*_(Currently Deactivated)_
-- 📸 [Facebook](https://www.facebook.com/saidulalimallick04) *Saidul Ali Mallick*_(Currently Deactivated)_
+- 📸 [Instagram](https://www.instagram.com/saidulalimallick04) *Saidul Ali Mallick*
+- 📸 [Facebook](https://www.facebook.com/saidulalimallick04) *Saidul Ali Mallick*
 - 
   
 ---
@@ -69,7 +69,7 @@
 ### 📫 Hobbies
 
 - 🔗 [Website](https://saidulalimallick.pages.dev/hobbies) *All Hobbies*
-- 📸 [Instagram](https://www.instagram.com/soidsphotography04/) *Soid's Photography*_(Currently Deactivated)_
+- 📸 [Instagram](https://www.instagram.com/soidsphotography04/) *Soid's Photography*
 - 💼 [Youtube](https://www.youtube.com/@samivideography04) *Sami's Videography*_(Currently Deactivated)_
 
 ---
