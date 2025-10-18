@@ -28,22 +28,6 @@
 
 ---
 ---
-### 📌 Projects
-
-- ✅🧩 **Apex-Sky Projects Management (Django + Python + HTML + CSS + JavaScript + PostgreSQL)**  
-  Organize projects, add deadlines, and get stuff done! Showcase to everyone all projects that you work in.
-
-- ✅😺 **AI-based Animal Classifier (Python{Streamlit, Tensworflow})**
-  Classify images based on some characteristics, It can easily Predict Cats, Dogs.
-
-- ✅🚩 **To-Do List App (Django + SQLite3)**  
-  Organize tasks, add deadlines, and get stuff done!
-
-- ✅🔍 **Search Bhai( Django + Unsplash API)**  
-  Goal is to build a  simple image search engine using API from different trust vendors like Unsplash 
-
----
----
 ### 🌱 Currently Learning
 
 - Django daily challenge 💪
