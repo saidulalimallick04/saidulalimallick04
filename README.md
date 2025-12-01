@@ -39,7 +39,7 @@
 
 ### 📫 Let's Connect
 
-- 🔗 [Portfolio](https://saidulalimallick.pages.dev)  [Portfolio 2](https://developersami.vercel.app)*Portfolio Webpage*
+- 🔗 [Portfolio](https://saidulalimallick.pages.dev), [Portfolio 2](https://developersami.vercel.app) <- *Portfolio Webpage*
 - 🐦 [Twitter](https://x.com/saidulmallick04) *Saidul Ali Mallick*
 - 💼 [LinkedIn](https://linkedin.com/in/saidulalimallick04) *Saidul Ali Mallick* _(Available to contact)_
 - 📸 [Instagram](https://www.instagram.com/saidulalimallick04) *Saidul Ali Mallick*
