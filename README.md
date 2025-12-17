@@ -1,73 +1,64 @@
-# Saidul Ali Mallick
-## Hey there, I'm Sami! 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=saidulalimallick04&color=blue)
+# 🌿 Saidul Ali Mallick (Sami) 
+### *The Backend Sage | B.Tech CSE (AI & ML)*
 
-### 👨‍💻 Backend Developer in Progress | B.Tech CSE (AI & ML)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=saidulalimallick04&color=4A90E2&style=flat-square&label=PROFILE+VIEWS" alt="saidulalimallick04" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Arch-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current-Django%20Challenge-green?style=flat-square" />
+</p>
 
-🔖 Known as **Backend Sage** — blending code, calm, organized & creativity
+---
+
+### 📖 The Story So Far
+I am a **Backend Developer** and **AI/ML student** who believes that code should be as organized as a Zen garden. I bridge the gap between complex data structures and seamless user experiences. When I'm not architecting APIs, I'm capturing the world through a camera lens or finding inspiration in the philosophy of *Naruto*.
+
+- 🔭 **Working on:** Advanced Django Rest Framework & PostgreSQL optimization.
+- 🧪 **Specializing in:** Artificial Intelligence and Machine Learning applications.
+- 🏔️ **Dream:** Building world-class software from a cabin in the mountains.
+- ⚡ **Philosophy:** *"Code with calm, build with purpose."*
 
 ---
 
-### 🚀 About Me
+### 🛠️ The Sage's Toolkit
 
-- 🎓 Pursuing B.Tech in Computer Science specializing in Artificial Intelligence and Machine Learning.
-- 🧠 Focused on **Backend Development** with Python, Django & PostgreSQL.
-- 📸 Passionate about photography & nature videography.
-- 🌿 Inspired by nature, storytelling & anime (Naruto believer 🌀).
-- 🎥 Planning to launch my YouTube channel soon.
-
----
----
-### 🛠️ Tech Stack
-
-- 💻 **Languages**: Python, Java, C, SQL
-- 🌐 **Web**: HTML, CSS, JavaScript (basic), Bootstrap
-- 🪟 **Frameworks**: Django, Django Rest Framework
-- 🗃️ **Databases**: PostgreSQL, MySQL, SQLite, Mongo DB
-- ⚙️ **Tools**: CDN, Git, GitHub, VS Code, Postman, Excel, Google Colab.
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `Python` `Java` `C` `SQL` |
+| **Backend** | **Django** (Primary), **Django Rest Framework**, CDN Integration |
+| **Databases** | **PostgreSQL**, MySQL, MongoDB, SQLite |
+| **Frontend/UI** | HTML5, CSS3, JavaScript (Basic), Bootstrap |
+| **DevOps/Tools** | Git, GitHub, Postman, VS Code, Google Colab, Excel |
 
 ---
----
-### 🌱 Currently Learning
 
-- Django daily challenge 💪
-- PostgreSQL advanced queries ⏩
-- Artifical Intelligence 🤖
-- Content Delivery Network ⛓️‍💥
-
----
----
-
-### 📫 Let's Connect
-
-- 🔗 [Portfolio](https://saidulalimallick.pages.dev), [Portfolio 2](https://developersami.vercel.app) <- *Portfolio Webpage*
-- 🐦 [Twitter](https://x.com/saidulmallick04) *Saidul Ali Mallick*
-- 💼 [LinkedIn](https://linkedin.com/in/saidulalimallick04) *Saidul Ali Mallick* _(Available to contact)_
-- 📸 [Instagram](https://www.instagram.com/saidulalimallick04) *Saidul Ali Mallick*
-- 📸 [Facebook](https://www.facebook.com/saidulalimallick04) *Saidul Ali Mallick*
-- 
-  
----
----
-
-### 📫 Hobbies
-
-- 🔗 [Website](https://saidulalimallick.pages.dev/hobbies) *All Hobbies*
-- 📸 [Instagram](https://www.instagram.com/soidsphotography04/) *Soid's Photography*
-- 💼 [Youtube](https://www.youtube.com/@samivideography04) *Sami's Videography*_(Currently Deactivated)_
+### 📈 Current Growth Sprint
+| Learning Path | Progress |
+| :--- | :--- |
+| **Django Mastery** | 30-Day Daily Challenge (Building robust APIs) 🔄 |
+| **Data Engineering** | Advanced PostgreSQL Queries & Indexing ⏩ |
+| **Intelligence** | Neural Networks & ML Model Deployment 🤖 |
+| **Infrastructure** | Content Delivery Networks (CDN) for low-latency apps ⛓️ |
 
 ---
----
 
-### ✨ Fun Facts
-
-- I dream of coding with a view of mountains or the sea 🏔️🌊.
-- I live by this quote: "I will protect you" 😊🫡.
-- My ideal life? Calm code, clean air, soulful stories & organized desk 🧘‍♂️🍃🙂.
-
----
----
-
-> _"Backend Sage, signing off. Let’s build something meaningful together something clean and meaningful!!"_ 💙
+### 🎨 Beyond the Code
+I believe creativity fuels logic. My hobbies keep my perspective fresh:
+* 📸 **Photography:** Capturing nature’s stillness. [View Gallery](https://saidulalimallick.pages.dev/hobbies)
+* 🎥 **Videography:** Storytelling through motion (YouTube coming soon!).
+* 🍥 **Anime:** Learning resilience from the Hidden Leaf.
 
 ---
+
+### 📫 Let's Collaborate
+<p align="left">
+<a href="https://linkedin.com/in/saidulalimallick04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saidulalimallick04" height="30" width="40" /></a>
+<a href="https://x.com/saidulmallick04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saidulmallick04" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saidulalimallick04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saidulalimallick04" height="30" width="40" /></a>
+</p>
+
+**Websites:** [Official Portfolio](https://saidulalimallick.pages.dev) | [DevSami Vercel](https://developersami.vercel.app)
+
 ---
+
+> _"I will protect the integrity of the codebase."_ 🫡  
+> **Backend Sage, signing off.**
