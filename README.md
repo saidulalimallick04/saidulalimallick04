@@ -31,16 +31,6 @@ I am a **Backend Developer** and **AI/ML student** who believes that code should
 
 ---
 
-### 📈 Current Growth Sprint
-| Learning Path | Progress |
-| :--- | :--- |
-| **Django Mastery** | 30-Day Daily Challenge (Building robust APIs) 🔄 |
-| **Data Engineering** | Advanced PostgreSQL Queries & Indexing ⏩ |
-| **Intelligence** | Neural Networks & ML Model Deployment 🤖 |
-| **Infrastructure** | Content Delivery Networks (CDN) for low-latency apps ⛓️ |
-
----
-
 ### 🎨 Beyond the Code
 I believe creativity fuels logic. My hobbies keep my perspective fresh:
 * 📸 **Photography:** Capturing nature’s stillness. [View Gallery](https://saidulalimallick.pages.dev/hobbies)
