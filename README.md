@@ -1,54 +1,60 @@
-# 🌿 Saidul Ali Mallick (Sami) 
-### *The Backend Sage | B.Tech CSE (AI & ML)*
+# 🌿 Saidul Ali Mallick (Sami)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saidulalimallick04&color=4A90E2&style=flat-square&label=PROFILE+VIEWS" alt="saidulalimallick04" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Arch-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Current-Django%20Challenge-green?style=flat-square" />
-</p>
+**Backend Sage | B.Tech CSE (AI & ML)**
 
----
-
-### 📖 The Story So Far
-I am a **Backend Developer** and **AI/ML student** who believes that code should be as organized as a Zen garden. I bridge the gap between complex data structures and seamless user experiences. When I'm not architecting APIs, I'm capturing the world through a camera lens or finding inspiration in the philosophy of *Naruto*.
-
-- 🔭 **Working on:** Advanced Django Rest Framework & PostgreSQL optimization.
-- 🧪 **Specializing in:** Artificial Intelligence and Machine Learning applications.
-- 🏔️ **Dream:** Building world-class software from a cabin in the mountains.
-- ⚡ **Philosophy:** *"Code with calm, build with purpose."*
+![Profile Views](https://komarev.com/ghpvc/?username=saidulalimallick04&color=4A90E2&style=flat-square&label=PROFILE+VIEWS)
+![Focus](https://img.shields.io/badge/Focus-Backend%20Arch-blue?style=flat-square)
+![Current](https://img.shields.io/badge/Current-Django%20Challenge-green?style=flat-square)
 
 ---
 
-### 🛠️ The Sage's Toolkit
+## 📖 About Me
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | `Python` `Java` `C` `SQL` |
-| **Backend** | **Django** (Primary), **Django Rest Framework**, CDN Integration |
-| **Databases** | **PostgreSQL**, MySQL, MongoDB, SQLite |
-| **Frontend/UI** | HTML5, CSS3, JavaScript (Basic), Bootstrap |
-| **DevOps/Tools** | Git, GitHub, Postman, VS Code, Google Colab, Excel |
+Backend Developer and AI/ML student passionate about clean architecture and scalable systems. I bridge complex data structures with seamless user experiences, focusing on API design and database optimization.
 
----
-
-### 🎨 Beyond the Code
-I believe creativity fuels logic. My hobbies keep my perspective fresh:
-* 📸 **Photography:** Capturing nature’s stillness. [View Gallery](https://saidulalimallick.pages.dev/hobbies)
-* 🎥 **Videography:** Storytelling through motion (YouTube coming soon!).
-* 🍥 **Anime:** Learning resilience from the Hidden Leaf.
+**Current Focus:** Advanced Django Rest Framework & PostgreSQL optimization  
+**Specialization:** Artificial Intelligence and Machine Learning applications  
+**Long-term Goal:** Building world-class software from a mountain cabin  
+**Philosophy:** *"Code with calm, build with purpose."*
 
 ---
 
-### 📫 Let's Collaborate
-<p align="left">
-<a href="https://linkedin.com/in/saidulalimallick04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saidulalimallick04" height="30" width="40" /></a>
-<a href="https://x.com/saidulmallick04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saidulmallick04" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saidulalimallick04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saidulalimallick04" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-**Websites:** [Official Portfolio](https://saidulalimallick.pages.dev) | [DevSami Vercel](https://developersami.vercel.app)
+### Languages
+`Python` `Java` `C` `SQL`
+
+### Backend & Frameworks
+**Django** (Primary) • **Django Rest Framework** • CDN Integration
+
+### Databases
+**PostgreSQL** • MySQL • MongoDB • SQLite
+
+### Frontend
+HTML5 • CSS3 • JavaScript • Bootstrap
+
+### Tools & DevOps
+Git • GitHub • Postman • VS Code • Google Colab • Excel
 
 ---
 
-> _"I will protect the integrity of the codebase."_ 🫡  
+## 🎨 Beyond Code
+
+- 📸 **Photography** – Capturing nature's stillness ([Gallery](https://saidulalimallick.pages.dev/hobbies))
+- 🎥 **Videography** – Storytelling through motion (YouTube coming soon)
+- 🍥 **Anime** – Learning resilience from the Hidden Leaf
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saidulalimallick04)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/saidulmallick04)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saidulalimallick04)
+
+**Portfolio:** [saidulalimallick.studio](https://saidulalimallick.studio) | [developersami.vercel.app](https://developersami.vercel.app)
+
+---
+
+> *"I will protect the integrity of the codebase."* 🫡  
 > **Backend Sage, signing off.**
